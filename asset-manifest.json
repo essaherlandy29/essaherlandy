@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/essaherlandy29/essaherlandy/static/css/main.76ecf5f3.css",
-    "main.js": "/essaherlandy29/essaherlandy/static/js/main.92ebb095.js",
+    "main.js": "/essaherlandy29/essaherlandy/static/js/main.51a5279e.js",
     "static/media/CVMohamadEssaHerlandy.pdf": "/essaherlandy29/essaherlandy/static/media/CVMohamadEssaHerlandy.b35547bb678f5b1cf98b.pdf",
     "static/media/reenginering.png": "/essaherlandy29/essaherlandy/static/media/reenginering.a95ffc5a7b4b085766a9.png",
     "static/media/mms.png": "/essaherlandy29/essaherlandy/static/media/mms.4268d4a687725bf148e5.png",
@@ -10,10 +10,10 @@
     "static/media/iiec.png": "/essaherlandy29/essaherlandy/static/media/iiec.23f35cfd68d188de4297.png",
     "index.html": "/essaherlandy29/essaherlandy/index.html",
     "main.76ecf5f3.css.map": "/essaherlandy29/essaherlandy/static/css/main.76ecf5f3.css.map",
-    "main.92ebb095.js.map": "/essaherlandy29/essaherlandy/static/js/main.92ebb095.js.map"
+    "main.51a5279e.js.map": "/essaherlandy29/essaherlandy/static/js/main.51a5279e.js.map"
   },
   "entrypoints": [
     "static/css/main.76ecf5f3.css",
-    "static/js/main.92ebb095.js"
+    "static/js/main.51a5279e.js"
   ]
 }
