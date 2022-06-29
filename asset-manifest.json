@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/essaherlandy/essaherlandy/static/css/main.76ecf5f3.css",
-    "main.js": "/essaherlandy/essaherlandy/static/js/main.92280802.js",
-    "static/media/CVMohamadEssaHerlandy.pdf": "/essaherlandy/essaherlandy/static/media/CVMohamadEssaHerlandy.b35547bb678f5b1cf98b.pdf",
-    "static/media/reenginering.png": "/essaherlandy/essaherlandy/static/media/reenginering.a95ffc5a7b4b085766a9.png",
-    "static/media/mms.png": "/essaherlandy/essaherlandy/static/media/mms.4268d4a687725bf148e5.png",
-    "static/media/me.jpg": "/essaherlandy/essaherlandy/static/media/me.f9c3a7fc9f14616061e7.jpg",
-    "static/media/warteg.png": "/essaherlandy/essaherlandy/static/media/warteg.8f8ed0e1182dc3751e6e.png",
-    "static/media/iiec.png": "/essaherlandy/essaherlandy/static/media/iiec.23f35cfd68d188de4297.png",
-    "index.html": "/essaherlandy/essaherlandy/index.html",
-    "main.76ecf5f3.css.map": "/essaherlandy/essaherlandy/static/css/main.76ecf5f3.css.map",
-    "main.92280802.js.map": "/essaherlandy/essaherlandy/static/js/main.92280802.js.map"
+    "main.css": "/essaherlandy29/essaherlandy/static/css/main.76ecf5f3.css",
+    "main.js": "/essaherlandy29/essaherlandy/static/js/main.92ebb095.js",
+    "static/media/CVMohamadEssaHerlandy.pdf": "/essaherlandy29/essaherlandy/static/media/CVMohamadEssaHerlandy.b35547bb678f5b1cf98b.pdf",
+    "static/media/reenginering.png": "/essaherlandy29/essaherlandy/static/media/reenginering.a95ffc5a7b4b085766a9.png",
+    "static/media/mms.png": "/essaherlandy29/essaherlandy/static/media/mms.4268d4a687725bf148e5.png",
+    "static/media/me.jpg": "/essaherlandy29/essaherlandy/static/media/me.f9c3a7fc9f14616061e7.jpg",
+    "static/media/warteg.png": "/essaherlandy29/essaherlandy/static/media/warteg.8f8ed0e1182dc3751e6e.png",
+    "static/media/iiec.png": "/essaherlandy29/essaherlandy/static/media/iiec.23f35cfd68d188de4297.png",
+    "index.html": "/essaherlandy29/essaherlandy/index.html",
+    "main.76ecf5f3.css.map": "/essaherlandy29/essaherlandy/static/css/main.76ecf5f3.css.map",
+    "main.92ebb095.js.map": "/essaherlandy29/essaherlandy/static/js/main.92ebb095.js.map"
   },
   "entrypoints": [
     "static/css/main.76ecf5f3.css",
-    "static/js/main.92280802.js"
+    "static/js/main.92ebb095.js"
   ]
 }
